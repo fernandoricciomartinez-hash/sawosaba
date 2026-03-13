@@ -1,5 +1,5 @@
-#sawosaba_PROJECT
+# sawosaba_PROJECT
 > Practica 4.1 Entornos de desarrollo
 
-##Main
+## Main
 > has the active code that executes the program
