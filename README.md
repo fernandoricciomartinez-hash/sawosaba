@@ -3,3 +3,6 @@
 
 ## Main
 > has the active code that executes the program
+
+## New functionality
+> show actual date and time
