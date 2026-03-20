@@ -6,3 +6,6 @@
 
 ## New functionality
 > show actual date and time
+
+## New functionality 2
+> creation of users and saving of their data
